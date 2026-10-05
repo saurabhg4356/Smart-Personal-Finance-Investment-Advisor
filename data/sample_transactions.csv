@@ -1,0 +1,278 @@
+transaction_id,amount,category,description,transaction_date,transaction_type,account_name
+TX-00001,95000.00,Salary,Monthly salary credit corporate payroll 2025-04,2025-04-01,income,HDFC Salary Account
+TX-00002,28000.00,Housing,Apartment monthly house rent transfer 2025-04,2025-04-03,expense,HDFC Salary Account
+TX-00006,3145.00,Groceries,DMart supermarket monthly grocery supplies,2025-04-04,expense,HDFC Salary Account
+TX-00003,2364.00,Utilities,Electricity bill payment BESCOM,2025-04-05,expense,HDFC Salary Account
+TX-00014,1946.00,Transport,Indian Oil petrol fuel tank refill,2025-04-06,expense,HDFC Salary Account
+TX-00010,737.00,Food,Swiggy dinner food delivery biryani meal,2025-04-07,expense,HDFC Salary Account
+TX-00004,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-04-08,expense,HDFC Salary Account
+TX-00005,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-04-10,expense,HDFC Salary Account
+TX-00017,3012.00,Shopping,Amazon online retail order casual sneakers,2025-04-11,expense,HDFC Salary Account
+TX-00007,1829.00,Groceries,BigBasket organic vegetables fruits delivery,2025-04-12,expense,HDFC Salary Account
+TX-00011,525.00,Food,Zomato lunch order pasta garlic bread,2025-04-14,expense,HDFC Salary Account
+TX-00015,739.00,Transport,Uber cab ride to tech park office,2025-04-15,expense,HDFC Salary Account
+TX-00019,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-04-16,expense,HDFC Salary Account
+TX-00022,1052.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-04-17,expense,HDFC Salary Account
+TX-00020,119.00,Entertainment,Spotify premium music individual subscription,2025-04-18,expense,HDFC Salary Account
+TX-00008,970.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-04-19,expense,HDFC Salary Account
+TX-00012,1477.00,Food,Dominos pizza weekend family meal,2025-04-21,expense,HDFC Salary Account
+TX-00016,500.00,Transport,Namma Metro smart card automated recharge,2025-04-22,expense,HDFC Salary Account
+TX-00021,894.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-04-23,expense,HDFC Salary Account
+TX-00018,1808.00,Shopping,Myntra branded t-shirts apparel purchase,2025-04-24,expense,HDFC Salary Account
+TX-00009,1475.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-04-26,expense,HDFC Salary Account
+TX-00013,566.00,Food,Starbucks coffee and roasted almond pastry,2025-04-27,expense,HDFC Salary Account
+TX-00023,95000.00,Salary,Monthly salary credit corporate payroll 2025-05,2025-05-01,income,HDFC Salary Account
+TX-00024,28000.00,Housing,Apartment monthly house rent transfer 2025-05,2025-05-03,expense,HDFC Salary Account
+TX-00028,3152.00,Groceries,DMart supermarket monthly grocery supplies,2025-05-04,expense,HDFC Salary Account
+TX-00025,2682.00,Utilities,Electricity bill payment BESCOM,2025-05-05,expense,HDFC Salary Account
+TX-00036,1887.00,Transport,Indian Oil petrol fuel tank refill,2025-05-06,expense,HDFC Salary Account
+TX-00032,739.00,Food,Swiggy dinner food delivery biryani meal,2025-05-07,expense,HDFC Salary Account
+TX-00026,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-05-08,expense,HDFC Salary Account
+TX-00027,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-05-10,expense,HDFC Salary Account
+TX-00039,2832.00,Shopping,Amazon online retail order casual sneakers,2025-05-11,expense,HDFC Salary Account
+TX-00029,1465.00,Groceries,BigBasket organic vegetables fruits delivery,2025-05-12,expense,HDFC Salary Account
+TX-00033,619.00,Food,Zomato lunch order pasta garlic bread,2025-05-14,expense,HDFC Salary Account
+TX-00037,600.00,Transport,Uber cab ride to tech park office,2025-05-15,expense,HDFC Salary Account
+TX-00041,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-05-16,expense,HDFC Salary Account
+TX-00044,862.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-05-17,expense,HDFC Salary Account
+TX-00042,119.00,Entertainment,Spotify premium music individual subscription,2025-05-18,expense,HDFC Salary Account
+TX-00030,877.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-05-19,expense,HDFC Salary Account
+TX-00034,1408.00,Food,Dominos pizza weekend family meal,2025-05-21,expense,HDFC Salary Account
+TX-00038,500.00,Transport,Namma Metro smart card automated recharge,2025-05-22,expense,HDFC Salary Account
+TX-00043,1064.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-05-23,expense,HDFC Salary Account
+TX-00040,1808.00,Shopping,Myntra branded t-shirts apparel purchase,2025-05-24,expense,HDFC Salary Account
+TX-00045,1999.00,Education,Udemy Python machine learning certification course,2025-05-25,expense,HDFC Salary Account
+TX-00031,1461.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-05-26,expense,HDFC Salary Account
+TX-00035,546.00,Food,Starbucks coffee and roasted almond pastry,2025-05-27,expense,HDFC Salary Account
+TX-00046,95000.00,Salary,Monthly salary credit corporate payroll 2025-06,2025-06-01,income,HDFC Salary Account
+TX-00047,28000.00,Housing,Apartment monthly house rent transfer 2025-06,2025-06-03,expense,HDFC Salary Account
+TX-00051,3723.00,Groceries,DMart supermarket monthly grocery supplies,2025-06-04,expense,HDFC Salary Account
+TX-00048,2709.00,Utilities,Electricity bill payment BESCOM,2025-06-05,expense,HDFC Salary Account
+TX-00059,1679.00,Transport,Indian Oil petrol fuel tank refill,2025-06-06,expense,HDFC Salary Account
+TX-00055,858.00,Food,Swiggy dinner food delivery biryani meal,2025-06-07,expense,HDFC Salary Account
+TX-00049,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-06-08,expense,HDFC Salary Account
+TX-00050,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-06-10,expense,HDFC Salary Account
+TX-00062,3079.00,Shopping,Amazon online retail order casual sneakers,2025-06-11,expense,HDFC Salary Account
+TX-00052,1592.00,Groceries,BigBasket organic vegetables fruits delivery,2025-06-12,expense,HDFC Salary Account
+TX-00056,598.00,Food,Zomato lunch order pasta garlic bread,2025-06-14,expense,HDFC Salary Account
+TX-00060,605.00,Transport,Uber cab ride to tech park office,2025-06-15,expense,HDFC Salary Account
+TX-00064,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-06-16,expense,HDFC Salary Account
+TX-00067,797.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-06-17,expense,HDFC Salary Account
+TX-00065,119.00,Entertainment,Spotify premium music individual subscription,2025-06-18,expense,HDFC Salary Account
+TX-00053,833.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-06-19,expense,HDFC Salary Account
+TX-00057,1274.00,Food,Dominos pizza weekend family meal,2025-06-21,expense,HDFC Salary Account
+TX-00061,500.00,Transport,Namma Metro smart card automated recharge,2025-06-22,expense,HDFC Salary Account
+TX-00066,902.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-06-23,expense,HDFC Salary Account
+TX-00063,1594.00,Shopping,Myntra branded t-shirts apparel purchase,2025-06-24,expense,HDFC Salary Account
+TX-00054,1431.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-06-26,expense,HDFC Salary Account
+TX-00058,611.00,Food,Starbucks coffee and roasted almond pastry,2025-06-27,expense,HDFC Salary Account
+TX-00269,3200.00,Income,TCS equity dividend payout credited,2025-06-28,income,Zerodha Trading Account
+TX-00272,1750.00,Income,Quarterly savings bank interest credit,2025-06-30,income,ICICI Emergency Fund
+TX-00068,95000.00,Salary,Monthly salary credit corporate payroll 2025-07,2025-07-01,income,HDFC Salary Account
+TX-00069,28000.00,Housing,Apartment monthly house rent transfer 2025-07,2025-07-03,expense,HDFC Salary Account
+TX-00073,3219.00,Groceries,DMart supermarket monthly grocery supplies,2025-07-04,expense,HDFC Salary Account
+TX-00070,2639.00,Utilities,Electricity bill payment BESCOM,2025-07-05,expense,HDFC Salary Account
+TX-00081,1874.00,Transport,Indian Oil petrol fuel tank refill,2025-07-06,expense,HDFC Salary Account
+TX-00077,747.00,Food,Swiggy dinner food delivery biryani meal,2025-07-07,expense,HDFC Salary Account
+TX-00071,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-07-08,expense,HDFC Salary Account
+TX-00072,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-07-10,expense,HDFC Salary Account
+TX-00084,3095.00,Shopping,Amazon online retail order casual sneakers,2025-07-11,expense,HDFC Salary Account
+TX-00074,1633.00,Groceries,BigBasket organic vegetables fruits delivery,2025-07-12,expense,HDFC Salary Account
+TX-00078,501.00,Food,Zomato lunch order pasta garlic bread,2025-07-14,expense,HDFC Salary Account
+TX-00082,581.00,Transport,Uber cab ride to tech park office,2025-07-15,expense,HDFC Salary Account
+TX-00086,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-07-16,expense,HDFC Salary Account
+TX-00089,1032.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-07-17,expense,HDFC Salary Account
+TX-00087,119.00,Entertainment,Spotify premium music individual subscription,2025-07-18,expense,HDFC Salary Account
+TX-00075,1006.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-07-19,expense,HDFC Salary Account
+TX-00079,1473.00,Food,Dominos pizza weekend family meal,2025-07-21,expense,HDFC Salary Account
+TX-00083,500.00,Transport,Namma Metro smart card automated recharge,2025-07-22,expense,HDFC Salary Account
+TX-00088,890.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-07-23,expense,HDFC Salary Account
+TX-00085,1637.00,Shopping,Myntra branded t-shirts apparel purchase,2025-07-24,expense,HDFC Salary Account
+TX-00076,1659.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-07-26,expense,HDFC Salary Account
+TX-00080,657.00,Food,Starbucks coffee and roasted almond pastry,2025-07-27,expense,HDFC Salary Account
+TX-00090,95000.00,Salary,Monthly salary credit corporate payroll 2025-08,2025-08-01,income,HDFC Salary Account
+TX-00091,28000.00,Housing,Apartment monthly house rent transfer 2025-08,2025-08-03,expense,HDFC Salary Account
+TX-00095,3763.00,Groceries,DMart supermarket monthly grocery supplies,2025-08-04,expense,HDFC Salary Account
+TX-00092,2550.00,Utilities,Electricity bill payment BESCOM,2025-08-05,expense,HDFC Salary Account
+TX-00103,1716.00,Transport,Indian Oil petrol fuel tank refill,2025-08-06,expense,HDFC Salary Account
+TX-00099,729.00,Food,Swiggy dinner food delivery biryani meal,2025-08-07,expense,HDFC Salary Account
+TX-00093,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-08-08,expense,HDFC Salary Account
+TX-00094,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-08-10,expense,HDFC Salary Account
+TX-00106,2395.00,Shopping,Amazon online retail order casual sneakers,2025-08-11,expense,HDFC Salary Account
+TX-00096,1766.00,Groceries,BigBasket organic vegetables fruits delivery,2025-08-12,expense,HDFC Salary Account
+TX-00100,507.00,Food,Zomato lunch order pasta garlic bread,2025-08-14,expense,HDFC Salary Account
+TX-00104,747.00,Transport,Uber cab ride to tech park office,2025-08-15,expense,HDFC Salary Account
+TX-00108,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-08-16,expense,HDFC Salary Account
+TX-00111,801.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-08-17,expense,HDFC Salary Account
+TX-00109,119.00,Entertainment,Spotify premium music individual subscription,2025-08-18,expense,HDFC Salary Account
+TX-00097,1015.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-08-19,expense,HDFC Salary Account
+TX-00101,1123.00,Food,Dominos pizza weekend family meal,2025-08-21,expense,HDFC Salary Account
+TX-00105,500.00,Transport,Namma Metro smart card automated recharge,2025-08-22,expense,HDFC Salary Account
+TX-00110,969.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-08-23,expense,HDFC Salary Account
+TX-00107,1331.00,Shopping,Myntra branded t-shirts apparel purchase,2025-08-24,expense,HDFC Salary Account
+TX-00098,1645.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-08-26,expense,HDFC Salary Account
+TX-00102,709.00,Food,Starbucks coffee and roasted almond pastry,2025-08-27,expense,HDFC Salary Account
+TX-00112,95000.00,Salary,Monthly salary credit corporate payroll 2025-09,2025-09-01,income,HDFC Salary Account
+TX-00113,28000.00,Housing,Apartment monthly house rent transfer 2025-09,2025-09-03,expense,HDFC Salary Account
+TX-00117,3404.00,Groceries,DMart supermarket monthly grocery supplies,2025-09-04,expense,HDFC Salary Account
+TX-00114,2639.00,Utilities,Electricity bill payment BESCOM,2025-09-05,expense,HDFC Salary Account
+TX-00125,1943.00,Transport,Indian Oil petrol fuel tank refill,2025-09-06,expense,HDFC Salary Account
+TX-00121,721.00,Food,Swiggy dinner food delivery biryani meal,2025-09-07,expense,HDFC Salary Account
+TX-00115,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-09-08,expense,HDFC Salary Account
+TX-00116,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-09-10,expense,HDFC Salary Account
+TX-00128,2817.00,Shopping,Amazon online retail order casual sneakers,2025-09-11,expense,HDFC Salary Account
+TX-00118,1682.00,Groceries,BigBasket organic vegetables fruits delivery,2025-09-12,expense,HDFC Salary Account
+TX-00122,584.00,Food,Zomato lunch order pasta garlic bread,2025-09-14,expense,HDFC Salary Account
+TX-00126,618.00,Transport,Uber cab ride to tech park office,2025-09-15,expense,HDFC Salary Account
+TX-00130,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-09-16,expense,HDFC Salary Account
+TX-00133,1023.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-09-17,expense,HDFC Salary Account
+TX-00131,119.00,Entertainment,Spotify premium music individual subscription,2025-09-18,expense,HDFC Salary Account
+TX-00119,1155.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-09-19,expense,HDFC Salary Account
+TX-00123,1281.00,Food,Dominos pizza weekend family meal,2025-09-21,expense,HDFC Salary Account
+TX-00127,500.00,Transport,Namma Metro smart card automated recharge,2025-09-22,expense,HDFC Salary Account
+TX-00132,937.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-09-23,expense,HDFC Salary Account
+TX-00129,1323.00,Shopping,Myntra branded t-shirts apparel purchase,2025-09-24,expense,HDFC Salary Account
+TX-00134,1999.00,Education,Udemy Python machine learning certification course,2025-09-25,expense,HDFC Salary Account
+TX-00120,1536.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-09-26,expense,HDFC Salary Account
+TX-00124,593.00,Food,Starbucks coffee and roasted almond pastry,2025-09-27,expense,HDFC Salary Account
+TX-00270,4500.00,Income,Reliance Industries dividend credit,2025-09-28,income,Zerodha Trading Account
+TX-00273,1750.00,Income,Quarterly savings bank interest credit,2025-09-30,income,ICICI Emergency Fund
+TX-00135,95000.00,Salary,Monthly salary credit corporate payroll 2025-10,2025-10-01,income,HDFC Salary Account
+TX-00136,28000.00,Housing,Apartment monthly house rent transfer 2025-10,2025-10-03,expense,HDFC Salary Account
+TX-00140,3287.00,Groceries,DMart supermarket monthly grocery supplies,2025-10-04,expense,HDFC Salary Account
+TX-00137,2500.00,Utilities,Electricity bill payment BESCOM,2025-10-05,expense,HDFC Salary Account
+TX-00148,1766.00,Transport,Indian Oil petrol fuel tank refill,2025-10-06,expense,HDFC Salary Account
+TX-00144,916.00,Food,Swiggy dinner food delivery biryani meal,2025-10-07,expense,HDFC Salary Account
+TX-00138,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-10-08,expense,HDFC Salary Account
+TX-00139,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-10-10,expense,HDFC Salary Account
+TX-00151,2893.00,Shopping,Amazon online retail order casual sneakers,2025-10-11,expense,HDFC Salary Account
+TX-00141,1686.00,Groceries,BigBasket organic vegetables fruits delivery,2025-10-12,expense,HDFC Salary Account
+TX-00145,632.00,Food,Zomato lunch order pasta garlic bread,2025-10-14,expense,HDFC Salary Account
+TX-00149,746.00,Transport,Uber cab ride to tech park office,2025-10-15,expense,HDFC Salary Account
+TX-00153,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-10-16,expense,HDFC Salary Account
+TX-00156,766.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-10-17,expense,HDFC Salary Account
+TX-00154,119.00,Entertainment,Spotify premium music individual subscription,2025-10-18,expense,HDFC Salary Account
+TX-00142,1024.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-10-19,expense,HDFC Salary Account
+TX-00276,84990.00,Shopping,Apple MacBook Air laptop purchase Diwali sale,2025-10-20,expense,HDFC Salary Account
+TX-00146,1212.00,Food,Dominos pizza weekend family meal,2025-10-21,expense,HDFC Salary Account
+TX-00150,500.00,Transport,Namma Metro smart card automated recharge,2025-10-22,expense,HDFC Salary Account
+TX-00155,967.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-10-23,expense,HDFC Salary Account
+TX-00152,1307.00,Shopping,Myntra branded t-shirts apparel purchase,2025-10-24,expense,HDFC Salary Account
+TX-00143,1488.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-10-26,expense,HDFC Salary Account
+TX-00147,715.00,Food,Starbucks coffee and roasted almond pastry,2025-10-27,expense,HDFC Salary Account
+TX-00157,95000.00,Salary,Monthly salary credit corporate payroll 2025-11,2025-11-01,income,HDFC Salary Account
+TX-00158,28000.00,Housing,Apartment monthly house rent transfer 2025-11,2025-11-03,expense,HDFC Salary Account
+TX-00162,3530.00,Groceries,DMart supermarket monthly grocery supplies,2025-11-04,expense,HDFC Salary Account
+TX-00159,2573.00,Utilities,Electricity bill payment BESCOM,2025-11-05,expense,HDFC Salary Account
+TX-00170,1761.00,Transport,Indian Oil petrol fuel tank refill,2025-11-06,expense,HDFC Salary Account
+TX-00166,913.00,Food,Swiggy dinner food delivery biryani meal,2025-11-07,expense,HDFC Salary Account
+TX-00160,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-11-08,expense,HDFC Salary Account
+TX-00161,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-11-10,expense,HDFC Salary Account
+TX-00173,2770.00,Shopping,Amazon online retail order casual sneakers,2025-11-11,expense,HDFC Salary Account
+TX-00163,1587.00,Groceries,BigBasket organic vegetables fruits delivery,2025-11-12,expense,HDFC Salary Account
+TX-00167,635.00,Food,Zomato lunch order pasta garlic bread,2025-11-14,expense,HDFC Salary Account
+TX-00171,604.00,Transport,Uber cab ride to tech park office,2025-11-15,expense,HDFC Salary Account
+TX-00175,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-11-16,expense,HDFC Salary Account
+TX-00178,1079.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-11-17,expense,HDFC Salary Account
+TX-00176,119.00,Entertainment,Spotify premium music individual subscription,2025-11-18,expense,HDFC Salary Account
+TX-00164,863.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-11-19,expense,HDFC Salary Account
+TX-00168,1548.00,Food,Dominos pizza weekend family meal,2025-11-21,expense,HDFC Salary Account
+TX-00172,500.00,Transport,Namma Metro smart card automated recharge,2025-11-22,expense,HDFC Salary Account
+TX-00177,1052.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-11-23,expense,HDFC Salary Account
+TX-00174,1761.00,Shopping,Myntra branded t-shirts apparel purchase,2025-11-24,expense,HDFC Salary Account
+TX-00165,1458.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-11-26,expense,HDFC Salary Account
+TX-00169,723.00,Food,Starbucks coffee and roasted almond pastry,2025-11-27,expense,HDFC Salary Account
+TX-00179,95000.00,Salary,Monthly salary credit corporate payroll 2025-12,2025-12-01,income,HDFC Salary Account
+TX-00180,28000.00,Housing,Apartment monthly house rent transfer 2025-12,2025-12-03,expense,HDFC Salary Account
+TX-00184,3266.00,Groceries,DMart supermarket monthly grocery supplies,2025-12-04,expense,HDFC Salary Account
+TX-00181,2719.00,Utilities,Electricity bill payment BESCOM,2025-12-05,expense,HDFC Salary Account
+TX-00192,1982.00,Transport,Indian Oil petrol fuel tank refill,2025-12-06,expense,HDFC Salary Account
+TX-00188,870.00,Food,Swiggy dinner food delivery biryani meal,2025-12-07,expense,HDFC Salary Account
+TX-00182,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2025-12-08,expense,HDFC Salary Account
+TX-00183,749.00,Utilities,Jio prepaid mobile recharge 84 days,2025-12-10,expense,HDFC Salary Account
+TX-00195,2537.00,Shopping,Amazon online retail order casual sneakers,2025-12-11,expense,HDFC Salary Account
+TX-00185,1585.00,Groceries,BigBasket organic vegetables fruits delivery,2025-12-12,expense,HDFC Salary Account
+TX-00189,633.00,Food,Zomato lunch order pasta garlic bread,2025-12-14,expense,HDFC Salary Account
+TX-00193,699.00,Transport,Uber cab ride to tech park office,2025-12-15,expense,HDFC Salary Account
+TX-00197,649.00,Entertainment,Netflix monthly 4K UHD subscription,2025-12-16,expense,HDFC Salary Account
+TX-00200,935.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2025-12-17,expense,HDFC Salary Account
+TX-00198,119.00,Entertainment,Spotify premium music individual subscription,2025-12-18,expense,HDFC Salary Account
+TX-00186,901.00,Groceries,Blinkit quick grocery order milk bread eggs,2025-12-19,expense,HDFC Salary Account
+TX-00190,1375.00,Food,Dominos pizza weekend family meal,2025-12-21,expense,HDFC Salary Account
+TX-00194,500.00,Transport,Namma Metro smart card automated recharge,2025-12-22,expense,HDFC Salary Account
+TX-00199,1054.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2025-12-23,expense,HDFC Salary Account
+TX-00196,1847.00,Shopping,Myntra branded t-shirts apparel purchase,2025-12-24,expense,HDFC Salary Account
+TX-00187,1476.00,Groceries,Nature Basket weekly gourmet grocery shopping,2025-12-26,expense,HDFC Salary Account
+TX-00191,607.00,Food,Starbucks coffee and roasted almond pastry,2025-12-27,expense,HDFC Salary Account
+TX-00274,1750.00,Income,Quarterly savings bank interest credit,2025-12-31,income,ICICI Emergency Fund
+TX-00201,95000.00,Salary,Monthly salary credit corporate payroll 2026-01,2026-01-01,income,HDFC Salary Account
+TX-00202,28000.00,Housing,Apartment monthly house rent transfer 2026-01,2026-01-03,expense,HDFC Salary Account
+TX-00206,3261.00,Groceries,DMart supermarket monthly grocery supplies,2026-01-04,expense,HDFC Salary Account
+TX-00203,2474.00,Utilities,Electricity bill payment BESCOM,2026-01-05,expense,HDFC Salary Account
+TX-00214,1678.00,Transport,Indian Oil petrol fuel tank refill,2026-01-06,expense,HDFC Salary Account
+TX-00210,873.00,Food,Swiggy dinner food delivery biryani meal,2026-01-07,expense,HDFC Salary Account
+TX-00204,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2026-01-08,expense,HDFC Salary Account
+TX-00205,749.00,Utilities,Jio prepaid mobile recharge 84 days,2026-01-10,expense,HDFC Salary Account
+TX-00217,2262.00,Shopping,Amazon online retail order casual sneakers,2026-01-11,expense,HDFC Salary Account
+TX-00207,1710.00,Groceries,BigBasket organic vegetables fruits delivery,2026-01-12,expense,HDFC Salary Account
+TX-00211,502.00,Food,Zomato lunch order pasta garlic bread,2026-01-14,expense,HDFC Salary Account
+TX-00215,710.00,Transport,Uber cab ride to tech park office,2026-01-15,expense,HDFC Salary Account
+TX-00219,649.00,Entertainment,Netflix monthly 4K UHD subscription,2026-01-16,expense,HDFC Salary Account
+TX-00222,947.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2026-01-17,expense,HDFC Salary Account
+TX-00220,119.00,Entertainment,Spotify premium music individual subscription,2026-01-18,expense,HDFC Salary Account
+TX-00277,48500.00,Healthcare,Emergency hospital surgery admission deposit,2026-01-18,expense,HDFC Salary Account
+TX-00208,1082.00,Groceries,Blinkit quick grocery order milk bread eggs,2026-01-19,expense,HDFC Salary Account
+TX-00271,4300.00,Income,TCS interim dividend payout,2026-01-20,income,Zerodha Trading Account
+TX-00212,1540.00,Food,Dominos pizza weekend family meal,2026-01-21,expense,HDFC Salary Account
+TX-00216,500.00,Transport,Namma Metro smart card automated recharge,2026-01-22,expense,HDFC Salary Account
+TX-00221,882.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2026-01-23,expense,HDFC Salary Account
+TX-00218,1682.00,Shopping,Myntra branded t-shirts apparel purchase,2026-01-24,expense,HDFC Salary Account
+TX-00223,1999.00,Education,Udemy Python machine learning certification course,2026-01-25,expense,HDFC Salary Account
+TX-00209,1396.00,Groceries,Nature Basket weekly gourmet grocery shopping,2026-01-26,expense,HDFC Salary Account
+TX-00213,568.00,Food,Starbucks coffee and roasted almond pastry,2026-01-27,expense,HDFC Salary Account
+TX-00224,95000.00,Salary,Monthly salary credit corporate payroll 2026-02,2026-02-01,income,HDFC Salary Account
+TX-00225,28000.00,Housing,Apartment monthly house rent transfer 2026-02,2026-02-03,expense,HDFC Salary Account
+TX-00229,3730.00,Groceries,DMart supermarket monthly grocery supplies,2026-02-04,expense,HDFC Salary Account
+TX-00226,2640.00,Utilities,Electricity bill payment BESCOM,2026-02-05,expense,HDFC Salary Account
+TX-00237,1948.00,Transport,Indian Oil petrol fuel tank refill,2026-02-06,expense,HDFC Salary Account
+TX-00233,928.00,Food,Swiggy dinner food delivery biryani meal,2026-02-07,expense,HDFC Salary Account
+TX-00227,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2026-02-08,expense,HDFC Salary Account
+TX-00228,749.00,Utilities,Jio prepaid mobile recharge 84 days,2026-02-10,expense,HDFC Salary Account
+TX-00240,2216.00,Shopping,Amazon online retail order casual sneakers,2026-02-11,expense,HDFC Salary Account
+TX-00230,1689.00,Groceries,BigBasket organic vegetables fruits delivery,2026-02-12,expense,HDFC Salary Account
+TX-00234,631.00,Food,Zomato lunch order pasta garlic bread,2026-02-14,expense,HDFC Salary Account
+TX-00238,734.00,Transport,Uber cab ride to tech park office,2026-02-15,expense,HDFC Salary Account
+TX-00242,649.00,Entertainment,Netflix monthly 4K UHD subscription,2026-02-16,expense,HDFC Salary Account
+TX-00245,1143.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2026-02-17,expense,HDFC Salary Account
+TX-00243,119.00,Entertainment,Spotify premium music individual subscription,2026-02-18,expense,HDFC Salary Account
+TX-00231,1100.00,Groceries,Blinkit quick grocery order milk bread eggs,2026-02-19,expense,HDFC Salary Account
+TX-00235,1540.00,Food,Dominos pizza weekend family meal,2026-02-21,expense,HDFC Salary Account
+TX-00239,500.00,Transport,Namma Metro smart card automated recharge,2026-02-22,expense,HDFC Salary Account
+TX-00244,986.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2026-02-23,expense,HDFC Salary Account
+TX-00241,1799.00,Shopping,Myntra branded t-shirts apparel purchase,2026-02-24,expense,HDFC Salary Account
+TX-00232,1478.00,Groceries,Nature Basket weekly gourmet grocery shopping,2026-02-26,expense,HDFC Salary Account
+TX-00236,542.00,Food,Starbucks coffee and roasted almond pastry,2026-02-27,expense,HDFC Salary Account
+TX-00246,95000.00,Salary,Monthly salary credit corporate payroll 2026-03,2026-03-01,income,HDFC Salary Account
+TX-00247,28000.00,Housing,Apartment monthly house rent transfer 2026-03,2026-03-03,expense,HDFC Salary Account
+TX-00251,3234.00,Groceries,DMart supermarket monthly grocery supplies,2026-03-04,expense,HDFC Salary Account
+TX-00248,2598.00,Utilities,Electricity bill payment BESCOM,2026-03-05,expense,HDFC Salary Account
+TX-00259,1734.00,Transport,Indian Oil petrol fuel tank refill,2026-03-06,expense,HDFC Salary Account
+TX-00255,796.00,Food,Swiggy dinner food delivery biryani meal,2026-03-07,expense,HDFC Salary Account
+TX-00249,1179.00,Utilities,Airtel broadband wifi fiber monthly bill,2026-03-08,expense,HDFC Salary Account
+TX-00250,749.00,Utilities,Jio prepaid mobile recharge 84 days,2026-03-10,expense,HDFC Salary Account
+TX-00262,2879.00,Shopping,Amazon online retail order casual sneakers,2026-03-11,expense,HDFC Salary Account
+TX-00252,1600.00,Groceries,BigBasket organic vegetables fruits delivery,2026-03-12,expense,HDFC Salary Account
+TX-00256,490.00,Food,Zomato lunch order pasta garlic bread,2026-03-14,expense,HDFC Salary Account
+TX-00260,678.00,Transport,Uber cab ride to tech park office,2026-03-15,expense,HDFC Salary Account
+TX-00264,649.00,Entertainment,Netflix monthly 4K UHD subscription,2026-03-16,expense,HDFC Salary Account
+TX-00267,804.00,Healthcare,Apollo Pharmacy prescription vitamins medicines,2026-03-17,expense,HDFC Salary Account
+TX-00265,119.00,Entertainment,Spotify premium music individual subscription,2026-03-18,expense,HDFC Salary Account
+TX-00253,1052.00,Groceries,Blinkit quick grocery order milk bread eggs,2026-03-19,expense,HDFC Salary Account
+TX-00257,1469.00,Food,Dominos pizza weekend family meal,2026-03-21,expense,HDFC Salary Account
+TX-00261,500.00,Transport,Namma Metro smart card automated recharge,2026-03-22,expense,HDFC Salary Account
+TX-00266,1109.00,Entertainment,BookMyShow cinema multiplex movie tickets PVR,2026-03-23,expense,HDFC Salary Account
+TX-00263,1432.00,Shopping,Myntra branded t-shirts apparel purchase,2026-03-24,expense,HDFC Salary Account
+TX-00268,1999.00,Education,Udemy Python machine learning certification course,2026-03-25,expense,HDFC Salary Account
+TX-00254,1430.00,Groceries,Nature Basket weekly gourmet grocery shopping,2026-03-26,expense,HDFC Salary Account
+TX-00258,724.00,Food,Starbucks coffee and roasted almond pastry,2026-03-27,expense,HDFC Salary Account
+TX-00275,1750.00,Income,Quarterly savings bank interest credit,2026-03-31,income,ICICI Emergency Fund

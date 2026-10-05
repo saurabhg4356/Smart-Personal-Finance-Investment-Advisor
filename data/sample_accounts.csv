@@ -1,0 +1,4 @@
+account_id,account_name,opening_balance,current_balance,account_type,extra_info
+ACC-001,HDFC Salary Account,150000.00,506723.00,Savings,4.0
+ACC-002,ICICI Emergency Fund,150000.00,157000.00,Savings,5.5
+ACC-003,Zerodha Trading Account,50000.00,62000.00,Investment,

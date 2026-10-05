@@ -1,0 +1,8 @@
+investment_id,asset_name,asset_type,quantity,purchase_price,current_price
+INV-001,Nifty 50 Index Fund,Mutual Fund,250.0000,180.50,215.20
+INV-002,Tata Consultancy Services,Equity,20.0000,3450.00,3980.00
+INV-003,Reliance Industries Ltd,Equity,30.0000,2400.00,2750.00
+INV-004,HDFC Bank Ltd,Equity,45.0000,1520.00,1680.00
+INV-005,Nippon India Gold BeES ETF,Gold,80.0000,54.00,68.50
+INV-006,Parag Parikh Flexi Cap Fund,Mutual Fund,500.0000,52.30,66.80
+INV-007,SBI 3-Year Fixed Deposit,Fixed Deposit,1.0000,100000.00,107100.00
